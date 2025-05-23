@@ -1,5 +1,5 @@
 # 🛍️ RAG eBay Chatbot with Streamlit
-
+![Screenshot](chatbotpic.png)
 - Deployed on streamlit: https://rag-chatbot-ebay-integration-anj.streamlit.app/
 
 This is a simple AI-powered shopping assistant built using:
